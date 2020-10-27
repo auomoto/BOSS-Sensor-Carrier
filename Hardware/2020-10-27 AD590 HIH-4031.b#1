@@ -163,7 +163,7 @@
 <layer number="255" name="routoute" color="7" fill="1" visible="yes" active="yes"/>
 </layers>
 <board>
-<fusionsync huburn="a.cGVyc29uYWw6dWUyZDgyNjcx" projecturn="a.cGVyc29uYWw6dWUyZDgyNjcxIzIwMTgxMjIwMTY2NDc1MjMx" f3durn="urn:adsk.wipprod:dm.lineage:y_pfGQwuTuiEVMzXn5JDfA" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="2b6e9b97-ec1e-49e1-9090-e9a64d200a1f" lastsyncedrevisionid="2b6e9b97-ec1e-49e1-9090-e9a64d200a1f" lastboardhashguid="5f90343d-d253-cd65-6850-8fb7a6b088e6" lastpushedtime="2020-10-27T23:12:07Z" linktopcb3d="true"/>
+<fusionsync huburn="a.cGVyc29uYWw6dWUyZDgyNjcx" projecturn="a.cGVyc29uYWw6dWUyZDgyNjcxIzIwMTgxMjIwMTY2NDc1MjMx" f3durn="urn:adsk.wipprod:dm.lineage:y_pfGQwuTuiEVMzXn5JDfA" pcbguid="" lastpulledtime="" lastsyncedchangeguid="" latestrevisionid="ff5fe1db-d46d-4a48-879c-8e1937dbd3a4" lastsyncedrevisionid="ff5fe1db-d46d-4a48-879c-8e1937dbd3a4" lastboardhashguid="90d18d0d-ec06-a196-c128-ba77b97a8f1d" lastpushedtime="2020-10-27T23:04:35Z" linktopcb3d="true"/>
 <plain>
 <wire x1="0" y1="0" x2="33.02" y2="0" width="0" layer="20"/>
 <wire x1="33.02" y1="0" x2="33.02" y2="13.97" width="0" layer="20"/>
@@ -178,12 +178,12 @@
 <text x="2.032" y="10.795" size="1.27" layer="22" font="vector" rot="MR180">V-</text>
 <text x="32.893" y="1.905" size="1.016" layer="21" font="vector" rot="R180">2020-10-27 AD590 HiH4031</text>
 <text x="12.827" y="13.335" size="1.27" layer="22" font="vector" rot="MR180">Temp &amp; Humidity</text>
-<text x="13.335" y="9.525" size="1.016" layer="21" font="vector">HiH-4031</text>
-<text x="17.78" y="1.27" size="1.016" layer="22" font="vector" rot="MR0">AD590</text>
+<text x="12.065" y="10.16" size="1.27" layer="21" font="vector">HiH-4031</text>
+<text x="17.78" y="1.27" size="1.27" layer="22" font="vector" rot="MR0">AD590</text>
 <text x="6.985" y="12.065" size="1.016" layer="21" font="vector">+V</text>
 <text x="6.985" y="9.525" size="1.016" layer="21" font="vector">-V</text>
 <text x="6.985" y="0.635" size="1.016" layer="21" font="vector">+5V</text>
-<text x="6.985" y="2.54" size="1.016" layer="21" font="vector">OUT</text>
+<text x="6.985" y="3.175" size="1.016" layer="21" font="vector">OUT</text>
 <text x="4.445" y="6.985" size="1.016" layer="21" font="vector">GND</text>
 </plain>
 <libraries>
