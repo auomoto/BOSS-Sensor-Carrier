@@ -3877,7 +3877,7 @@ Source: &lt;a href="http://www.analog.com/static/imported-files/data_sheets/AD59
 <description>Temperature and Humidity Sensor Carrier</description>
 <plain>
 <text x="121.92" y="139.7" size="2.54" layer="97">AD590 Temperature Sensor</text>
-<text x="121.92" y="91.44" size="2.54" layer="97">HiH-4031 Humidity Sensor</text>
+<text x="121.92" y="88.9" size="2.54" layer="97">HiH-4031 Humidity Sensor</text>
 <text x="121.92" y="114.3" size="2.54" layer="97">Off-board Connector</text>
 </plain>
 <instances>
